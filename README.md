@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mohammadreza mirzai</h1>
-<h3 align="center">A frontend developer from Iran</h3>
+<h3 align="center">A frontend developer </h3>
 
 - 🌱 I’m currently learning **Html5 , Css3  , Tailwind , javascript , react.js
 - 👨‍💻 All of my projects are available at https://github.com/Mohammadrezamirzai
